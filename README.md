@@ -25,15 +25,15 @@ All data used can be found in the [datasets](datasets) folder:
 
 #### Scripts
 
-[RNN LSTM Misinformation Classifier](RNN LSTM Misinformation Classifier) contains the training dataset and Python script with the RNN Model Specification 
+`RNN LSTM Misinformation Classifier`:contains the training dataset and Python script with the RNN Model Specification 
 
-[Reddit Data Extraction](Reddit Data Extraction) contains the R script used to extract the Reddit data for the time-series analysis, sentiment analysis and topic modelling using the RedditExtractoR library (Rivera, 2019). Also contains the R script used to extract the Reddit-text data specifically for the misinformation classifier using a wrapper for the Pushshift Reddit API
+`Reddit Data Extraction`: contains the R script used to extract the Reddit data for the time-series analysis, sentiment analysis and topic modelling using the RedditExtractoR library (Rivera, 2019). Also contains the R script used to extract the Reddit-text data specifically for the misinformation classifier using a wrapper for the Pushshift Reddit API
 
-[Reddit Image Scrapper](Reddit Image Scrapper) contains the Python script used to extract images from Reddit for the misinformation classifier using Praw and Request. Contains a dataset with some sample images from which text was extracted. 
+`Reddit Image Scrapper`: contains the Python script used to extract images from Reddit for the misinformation classifier using Praw and Request. Contains a dataset with some sample images from which text was extracted. 
 
-[XGBoost Misinformation Classifier](XGBoost Misinformation Classifier) contains the training dataset and Python script with the XGBoost Model Specification 
+`XGBoost Misinformation Classifier`: contains the training dataset and Python script with the XGBoost Model Specification 
 
-[Youtube Scrapper](Youtube Scrapper) contains the Python script used to scrape data via the YouTube API as well as an R script used to clean said YouTube Data
+`Youtube Scrapper`:  contains the Python script used to scrape data via the YouTube API as well as an R script used to clean said YouTube Data
 
 [information-sources](information-sources) contains R script for the descriptive analysis of media source reliability 
 
