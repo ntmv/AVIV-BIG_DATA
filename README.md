@@ -31,7 +31,7 @@ All data used can be found in the [datasets](datasets) folder:
 
 [Reddit Image Scrapper](Reddit Image Scrapper) contains the Python script used to extract images from Reddit for the misinformation classifier using Praw and Request. Contains a dataset with some sample images from which text was extracted. 
 
-[XGBoost Misinformation Classifier ](XGBoost Misinformation Classifier) contains the training dataset and Python script with the XGBoost Model Specification 
+[XGBoost Misinformation Classifier](XGBoost Misinformation Classifier) contains the training dataset and Python script with the XGBoost Model Specification 
 
 [Youtube Scrapper](Youtube Scrapper) contains the Python script used to scrape data via the YouTube API as well as an R script used to clean said YouTube Data
 
