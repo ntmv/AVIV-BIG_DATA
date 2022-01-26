@@ -1,5 +1,7 @@
 #  A Pipeline for identifying vaccine-specific infodemic insights and leveraging NLP deep learning models to predict misinformation
 
+Nirupama Tamvada, Mansi Patel, Nikhil Saini
+
 ## Overview 
 
 Amidst the continuing COVID-19 pandemic, the inevitable infodemic has contributed to the development of vaccine hesitancy. We analyze public sentiment for vaccines through comments extracted from YouTube and Reddit with a combination of sentiment analysis, exploratory time-series analysis and topic modelling. We then built a Reddit misinformation classifier, using an XGBoost classifier and a Long-Short Term Memory (LSTM) network, to classify text into three categories: Verified, Unverified and Questionable.
